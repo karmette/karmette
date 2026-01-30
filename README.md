@@ -1,8 +1,10 @@
 ## welcome to aaron github page
 
-[I made](https://modrinth.com/resourcepack/tightfault-revamp-edit)
+[I made](https://modrinth.com/resourcepack/tightfault-revamp-edit) a minecraft resource pack
 
-[my](https://github.com/HowdyHack-2025) [hackathon](https://github.com/nianjindev/MinecraftMCPSender) [projects](https://github.com/karmette/flight-night-against-fruits) (click to access!)
+[howdyhack2025](https://github.com/HowdyHack-2025)
+[tamu datathon 2025](https://github.com/nianjindev/MinecraftMCPSender)
+[tamuhack2026](https://github.com/karmette/flight-night-against-fruits)
 
 ### why do you have NO commit history!?!?!?
 
