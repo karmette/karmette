@@ -7,7 +7,8 @@ I'm currently a student at Texas A&M University. My hobbies are reading, rock cl
 | ------------- | ------------- | ------- |
 | [Monkeyscript](https://github.com/karmette/monkeyscript) | [HowdyHack 2025](https://github.com/HowdyHack-2025) | [ULTRACHEESE](https://cesspool-games.itch.io/ultracheese) |
 |  | [Tamu Datathon 2025](https://github.com/nianjindev/MinecraftMCPSender) | [nummus](https://github.com/karmette/nummus) |
-|  | [Tamuhack 2026](https://github.com/karmette/flight-night-against-fruits) |  |
+|  | [TamuHack 2026](https://github.com/karmette/flight-night-against-fruits) |  |
+|  | [Build4Good 2026](https://github.com/karmette/agent-kitchen) |  |
 
 #### Check out my Minecraft Resource Pack, Tightfault Revamp Edit:
 
