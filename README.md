@@ -1,6 +1,6 @@
 # Hi, I'm Aaron 👋
 
-I'm currently a student at Texas A&M University. My hobbies are reading, rock climbing, martial arts, and game development.
+I'm currently a student at Rice University. My hobbies are reading, rock climbing, martial arts, and game development.
 
 ## My projects:
 | Personal | Hackathons | Games |
