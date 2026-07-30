@@ -1,13 +1,18 @@
-# Hi, I'm Aaron 👋
+# About me
 
-I'm currently a student at Rice University. My hobbies are reading, rock climbing, martial arts, and game development.
+- Student at Rice University.
+- I like to make games and other projects I find fun and useful.
+
+## Languages and Tools
+<img src="https://skillicons.dev/icons?i=java,nodejs,python,cpp" height="40">
+<img src="https://skillicons.dev/icons?i=mysql,git,linux" height="40">
 
 ## My projects:
 | Personal | Hackathons | Games |
 | ------------- | ------------- | ------- |
-| [Monkeyscript](https://github.com/karmette/monkeyscript) | [HowdyHack 2025](https://github.com/HowdyHack-2025) | [ULTRACHEESE](https://cesspool-games.itch.io/ultracheese) |
+| [Monkeyscript](https://github.com/karmette/monkeyscript) | [HowdyHack 2025](https://github.com/HowdyHack-2025) | [redacted] |
 |  | [Tamu Datathon 2025](https://github.com/nianjindev/MinecraftMCPSender) | [nummus](https://github.com/karmette/nummus) |
-|  | [TamuHack 2026](https://github.com/karmette/flight-night-against-fruits) |  |
+|  | [TamuHack 2026](https://github.com/karmette/flight-night-against-fruits) | [gool](https://codeberg.org/karmette/gool) |
 |  | [Build4Good 2026](https://github.com/karmette/agent-kitchen) |  |
 
 #### Check out my Minecraft Resource Pack, Tightfault Revamp Edit:
